@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+beautifulsoup4
+plotly
